@@ -5,8 +5,7 @@ Welcome to my portfolio repository! This repository contains the source code for
 ## 📌 About
 This portfolio serves as a central hub to demonstrate my expertise in **Artificial Intelligence, Data Science, Web Development, and Machine Learning**. It includes details about my projects, professional journey, and technical skills.
 
-## 🔗 Live Demo
-[Visit My Portfolio](#) 
+ 
 
 ## 📜 Featured Sections
 - **About Me**: A brief introduction to my background, education, and career aspirations.
