@@ -18,7 +18,7 @@ body {
     box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.3);
     border-bottom: 3px solid #00bcd4;
     position: relative;
-    color: white; /* Ensures text remains readable */
+    color: white; 
 }
 
 /* Optional: Overlay for Better Readability */
@@ -29,7 +29,7 @@ body {
     left: 0;
     width: 100%;
     height: 100%;
-    background: rgba(0, 0, 0, 0.5); /* Adjust transparency */
+    background: rgba(0, 0, 0, 0.5); 
     z-index: 1;
 }
 
@@ -47,27 +47,27 @@ body {
 
 /* Profile Picture */
 .profile-picture {
-    width: 180px; /* Increased size for better visibility */
-    height: 180px; /* Maintaining aspect ratio */
-    border-radius: 50%; /* Perfect circular shape */
-    background: linear-gradient(135deg, #00bcd4); /* Smooth gradient */
-    padding: 8px; /* Increased padding for better spacing */
+    width: 180px; 
+    height: 180px; /
+    border-radius: 50%; 
+    background: linear-gradient(135deg, #00bcd4); 
+    padding: 8px; 
     display: flex;
     justify-content: center;
     align-items: center;
     transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out, background 0.3s ease-in-out;
     position: relative;
     overflow: hidden;
-    box-shadow: 0px 4px 20px rgba(0, 188, 212, 0.4); /* Soft, elegant shadow */
+    box-shadow: 0px 4px 20px rgba(0, 188, 212, 0.4); 
 }
 
 /* Image Styling */
 .profile-picture img {
     width: 100%;
     height: 100%;
-    border-radius: 50%; /* Circular image */
+    border-radius: 50%; /* Ensures image is circular */
     object-fit: cover;
-    border: 5px solid #1e1e1e; /* Dark border for contrast */
+    border: 5px solid #1e1e1e; 
 }
 
 /* Hover Effect */
@@ -151,7 +151,7 @@ body {
     background: url("D:/Portfolio/portfolio/assets/Portfolio_background.avif") no-repeat center center/cover; /* Adjust the path as needed */
     border-radius: 10px;
     box-shadow: 0px 5px 15px rgba(0, 188, 212, 0.2);
-    color: white; /* Ensure text remains visible */
+    color: white; 
     position: relative;
 }
 
@@ -163,7 +163,7 @@ body {
     left: 0;
     width: 100%;
     height: 100%;
-    background: rgba(0, 0, 0, 0.5); /* Adjust transparency */
+    background: rgba(0, 0, 0, 0.5); 
     border-radius: 10px;
     z-index: 1;
 }
@@ -236,7 +236,7 @@ h2 {
     padding: 60px 20px;
     border-radius: 10px;
     box-shadow: 0px 5px 15px rgba(0, 188, 212, 0.2);
-    color: white; /* Ensures text remains readable */
+    color: white; 
     text-align: center;
 }
 
@@ -323,7 +323,7 @@ h2 {
     border-radius: 10px;
     box-shadow: 0px 5px 15px rgba(0, 188, 212, 0.2);
     text-align: center;
-    color: white; /* Ensures text remains readable */
+    color: white; 
 }
 
 /* Contact Info Links */
@@ -344,7 +344,7 @@ h2 {
     display: inline-block;
     margin: 10px;
     padding: 10px 15px;
-    background-color: rgba(41, 41, 41, 0.8); /* Semi-transparent background */
+    background-color: rgba(41, 41, 41, 0.8); 
     color: #00e5ff;
     text-decoration: none;
     border-radius: 5px;
@@ -365,7 +365,7 @@ h2 {
     left: 0;
     width: 100%;
     height: 100%;
-    background: rgba(0, 0, 0, 0.5); /* Dark overlay for better text visibility */
+    background: rgba(0, 0, 0, 0.5); 
     z-index: -1;
 }
 
@@ -391,7 +391,7 @@ h2 {
     }
 }
 #home h1 {
-    font-size: 3rem; /* Adjust as needed */
+    font-size: 3rem; 
     font-weight: bold;
 }
 
@@ -399,5 +399,5 @@ h2 {
 #home .info-box p,
 #home .info-box ul li,
 #home .connect-text {
-    font-size: 1.2rem; /* Adjust as needed */
+    font-size: 1.2rem; 
 }
