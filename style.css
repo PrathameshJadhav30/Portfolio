@@ -73,8 +73,8 @@ body {
 /* Hover Effect */
 .profile-picture:hover {
     transform: scale(1.1);
-    box-shadow: 0px 0px 25px rgba(0, 188, 212, 0.6);
-    background: linear-gradient(135deg, #00e5ff, #006064);
+    box-shadow: 0px 0px 25px rgba(238, 241, 241, 0.6);
+    background: linear-gradient(135deg, #d0ebee, #e7eaeb);
 }
 
 /* Adding a Soft Animated Glow */
